@@ -1,1 +1,1 @@
-# AIML-2024
+# Artificial intelligence and Machine learning Lab Instruction sheets
