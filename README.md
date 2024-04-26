@@ -8,6 +8,7 @@ Repository projects and assignments<br>
 [Lab06] [https://github.com/manisaib/AIML-2024/blob/main/AIML_A6.pdf]<br>
 [Lab07] [https://github.com/manisaib/AIML-2024/blob/main/AIML_A7.pdf]<br>
 [Lab08] [https://github.com/manisaib/AIML-2024/blob/main/AIML_A8.pdf]<br>
+[Lab08] [https://github.com/manisaib/AIML-2024/blob/main/AIML_A9.pdf]<br>
 
 # Lab code notebooks <br>
 [Lab01] [https://github.com/manisaib/AIML-2024/blob/main/Lab01.ipynb]<br>
