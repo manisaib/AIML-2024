@@ -9,6 +9,7 @@ Repository projects and assignments<br>
 [Lab07] [https://github.com/manisaib/AIML-2024/blob/main/AIML_A7.pdf]<br>
 [Lab08] [https://github.com/manisaib/AIML-2024/blob/main/AIML_A8.pdf]<br>
 [Lab09] [https://github.com/manisaib/AIML-2024/blob/main/AIML_A9.pdf]<br>
+[Lab10] [https://github.com/manisaib/AIML-2024/blob/main/AIML_A10.pdf]<br>
 
 # Lab code notebooks <br>
 [Lab01] [https://github.com/manisaib/AIML-2024/blob/main/Lab01.ipynb]<br>
@@ -20,6 +21,7 @@ Repository projects and assignments<br>
 [Lab07] [https://github.com/manisaib/AIML-2024/blob/main/Lab07.ipynb]<br>
 [Lab08] [https://github.com/manisaib/AIML-2024/blob/main/Lab08.ipynb]<br>
 [Lab09] [https://github.com/manisaib/AIML-2024/blob/main/Lab09.ipynb]<br>
+[Lab10] [https://github.com/manisaib/AIML-2024/blob/main/Lab10.ipynb]<br>
 
 
 
